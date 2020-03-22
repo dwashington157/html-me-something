@@ -1,0 +1,22 @@
+body {
+    background: #a52a2a ;
+    font-style: italic;
+
+}
+h1 {
+    font-size: 75px;
+}
+h2 {
+    font-size: 25px;
+}
+
+h1 {
+    margin: 100px;
+} 
+
+.one {
+    background-color: blueviolet;
+}
+#Heading {
+    background-color: chocolate;
+}
